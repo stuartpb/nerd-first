@@ -1,12 +1,12 @@
 # Nerd-First Design
 
-How and why you should build your thing for the ones who will eat, breathe, and live it
+## How and Why to Build Your Thing Around the Ones Who Will Eat, Breathe, and Live It
 
 Copyright 2015 Stuart P. Bentley. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Introduction
 
-As you probably saw coming in, the title of this text is "Nerd-First Design: How and Why You Should Build Your Thing for the Ones Who Will Eat, Breathe, and Live It". (If you bought this text without that cover, it was probably ripped off, and you should get your money back.) I want you to eat, breathe, and live what I'm writing here, so I'm going to start off with the "Why" part of that.
+As you probably saw coming in, the title of this text is "Nerd-First Design: How and Why to Build Your Thing Around the Ones Who Will Eat, Breathe, and Live It". (If you bought this text without that cover, it was probably ripped off, and you should get your money back.) I want you to eat, breathe, and live what I'm writing here, so I'm going to start off with the "Why" part of that.
 
 You'll note that I'm not saying what "your thing" is. Maybe it's an app, or a service. Maybe it's a movie script. Maybe it's a new technique for brewing coffee, or juggling hackey sacks. When I say people will "eat, live and breathe it", it doesn't matter if your thing isn't something they literally do all day, every day. Whatever your thing is, if you want people to share it, this stuff applies.
 
