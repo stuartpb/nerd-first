@@ -6,9 +6,9 @@ Copyright 2015 Stuart P. Bentley. This work is licensed under a <a rel="license"
 
 ## Introduction
 
-As you probably saw coming in, the title of this text is "Nerd-First Design: How and Why to Build Your Thing Around the Ones Who Will Geek Out Over It". (If you bought this text without that cover, it was probably ripped off, and you should get your money back.) I want you to geek out over I'm writing here, so I'm going to start off with the "Why" part of that.
+As you probably saw coming in, the title of this text is "Nerd-First Design: How and Why to Build Your Thing Around the Ones Who Will Geek Out Over It". (If you bought this text without that cover, it was probably ripped off, and you should get your money back.) I want you to geek out over what I'm writing here, so I'm going to start off with the "Why" part of that.
 
-You'll note that I'm not saying what "your thing" is. Maybe it's an app, or a service. Maybe it's a movie script. Maybe it's a new technique for brewing coffee, or juggling hackey sacks. When I say people will "eat, live and breathe it", it doesn't matter if your thing isn't something they literally do all day, every day. Whatever your thing is, if you want people to share it, this stuff applies.
+You'll note that I'm not saying what "your thing" is. Maybe it's an app, or a service. Maybe it's a movie script. Maybe it's a new technique for brewing coffee, or juggling hackey sacks. When I say people will geek out over your thing, it doesn't have to be the center of their lives. Whatever your thing is, if you want people to share it, this stuff applies.
 
 You should design around the people your thing is important to because **they're the ones who get other people to pick it up**. There are a few other factors involved in getting people to pick your thing up; because I'm weird, I'm going to explain my thoughts on this using a polynomial function with emoji for variables (which I'm then going to *explain*, obviously - I said I'm weird, not *insane*):
 
